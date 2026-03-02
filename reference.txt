@@ -1,0 +1,19 @@
+References
+
+1. Cisco Networking Academy
+   https://www.netacad.com/
+
+2. Ubuntu Documentation – UFW Firewall
+   https://help.ubuntu.com/community/UFW
+
+3. Microsoft Documentation – Windows Defender Firewall
+   https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/windows-firewall/
+
+4. NIST Cybersecurity Framework
+   https://www.nist.gov/cyberframework
+
+5. OWASP Foundation – Security Basics
+   https://owasp.org/
+
+6. GeeksforGeeks – Firewall in Computer Networks
+   https://www.geeksforgeeks.org/firewall-in-computer-network/
